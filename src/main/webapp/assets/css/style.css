@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+form{
+	
+	position: fixed ;
+	border: solid 4px blue;
+	
+	top: 25vh;
+	left: 25vw;
+	
+	width: 50vw;
+	height: 50vh;
+	
+}
+
+form > div{
+	
+	height: 4%;
+	width: 4%;
+	
+	float: left;
+}
